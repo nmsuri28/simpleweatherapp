@@ -22,7 +22,7 @@ class App extends React.Component {
     
 
     const api_call = await fetch(
-      "http://api.openweathermap.org/data/2.5/weather?zip=" +
+      "https://api.openweathermap.org/data/2.5/weather?zip=" +
         zip +
         "&appid=" +
         API_KEY +

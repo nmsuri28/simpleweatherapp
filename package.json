@@ -2,7 +2,7 @@
   "name": "simpleweatherapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nmsuri28.github.io/simpleweatherapp",
+  "homepage": "https://nmsuri28.github.io/simpleweatherapp/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
